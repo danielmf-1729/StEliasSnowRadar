@@ -1,5 +1,5 @@
 This repository includes the Supplementary information for this publication as a single pdf file. This file contains additional figures and table that may be helpful to the reader. "Supplementary_InitialSubmission_20260505.pdf" is the Supplementary file from the initial submission, and 
-"Supplementary_For_JOG-2026-0064_Revision_20260923.pdf" is the Supplementary file for the revised document. 
+"Supplementary_For_JOG-2026-0064_Revision_20260923.pdf" is the Supplementary file for the revised paper. 
 
 The processed airborne data is retrievable from the CReSIS data archive for 2018 (https://data.cresis.ku.edu/data/snow/2018_Alaska_SO/), 2021 (https://data.cresis.ku.edu/data/snow/2021_Alaska_SO/), and 2023 (https://data.cresis.ku.edu/data/snow/2023_Alaska_Cessna206/). 
 
